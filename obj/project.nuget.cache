@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FU8iilu77eqvc7VsG+kxzgqDAq+zyWeQqyZFpDitjEAdKHd/GQgWi9Va7+BHAxZHdEOuIiIiY1JkFLoReggp8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leldr\\OneDrive\\Documents\\CS\\cse210\\Mindswepper\\Mindswepper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leldr\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\leldr\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
